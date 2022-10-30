@@ -1,4 +1,4 @@
-# Job-Analysis-And-Prediction-Web-System-Using-Machine-Learning-In-Eswatini
+# Cancer-Prediction-System-Using-Machine-Learning-In-Eswatini
 
 Group-Members:
 1.	Mkhonta Thembinkosi T – 202003592
